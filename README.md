@@ -4,7 +4,7 @@
 This project analyzes Romanian weather from 2011 to 2021, leveraging Tableau for data visualization and exploratory data analysis (EDA) to reveal how temperature, wind, and humidity impact seasonal changes and visibility.
 
 ## Hypotheses Explored
-We formulated and tested four main hypotheses to understand the complex interactions within meteorological variables:
+I formulated and tested four main hypotheses to understand the complex interactions within meteorological variables:
 
 ### Hypothesis 1: Seasonal Variation in Temperature
 ![Seasonal Temperature Variation](/output/Hypothesis-1.png)
