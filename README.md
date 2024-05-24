@@ -1,4 +1,4 @@
-# Romania Weather Analysis Project
+# Romania Weather Analysis
 
 ## Overview
 This project analyzes Romanian weather from 2011 to 2021, leveraging Tableau for data visualization and exploratory data analysis (EDA) to reveal how temperature, wind, and humidity impact seasonal changes and visibility.
